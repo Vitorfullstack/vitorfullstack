@@ -22,10 +22,7 @@ Java e PostgreSql no backend.
 <br/>
 <br/>
 
-### Estatísticas
-<p>
-  <img align="left" alt="git"  height="200px" style=padding-rigth: 10px"; src=https://github-readme-stats.vercel.app/api?username=vitorfullstack&show_icons=true&theme=tokyonight />
-</p>
+
 
 
 
