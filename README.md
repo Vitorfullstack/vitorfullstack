@@ -4,8 +4,7 @@
 Me chamo João Vitor, tenho 25 anos sou natural de Brasília. Sou casado e esperando um bebê.
 Atualmente sou formado em análise e desenvolvimento de sistemas, pela universidade Anhanguera.
 Sou apaixonado por tecnologia.
-Gosto de desenvolver sistemas baseados em html, css, javascript e react no frontend,
-Java e PostgreSql no backend. 
+Gosto de desenvolver sistemas baseados em html, css, javascript e react no frontend, Nodejs e PostgreSql no backend. 
 
 <div>
   <img align="left" alt="html" title="hmtl" width="30px" style=padding-rigth: 10px"; src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
